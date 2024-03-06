@@ -1,0 +1,14 @@
+{
+  "name": "thayekovic-portfolio",
+  "version": "1.0.0",
+  "description": "Projeto para o meu site",
+  "main": "index.js",
+  "author": "Thayanne Araujo",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-sass": "^5.1.0"
+  }
+}
